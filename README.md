@@ -50,14 +50,14 @@ Additionally, the active pin number is also printed to the **Serial Monitor**.
 
 ## 📁 File
 
-- `main.ino` – File utama Arduino yang menjalankan logika pembacaan pin dan tampilan TM1637.
+- `cek_pin_MAX-37.ino` – File utama Arduino yang menjalankan logika pembacaan pin dan tampilan TM1637.
 
 ---
 
 ## ▶️ Cara Menggunakan (Usage)
 
 1. Sambungkan TM1637 ke Arduino sesuai tabel wiring di atas.  
-2. Upload kode `main.ino` ke Arduino menggunakan Arduino IDE.  
+2. Upload kode `cek_pin_MAX-37.ino` ke Arduino menggunakan Arduino IDE.  
 3. Buka **Serial Monitor** dengan baud rate `9600`.  
 4. Hubungkan salah satu pin input ke **GND**.  
 5. Nomor pin aktif akan muncul di **display TM1637** dan **Serial Monitor**.
