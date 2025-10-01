@@ -90,6 +90,22 @@ Jika Anda menemukan bug atau ingin menambahkan fitur baru, silakan buat *issue* 
 🔗 GitHub: [https://github.com/sembre](https://github.com/sembre)  
 
 ---
+## 🦅 File Eagle (Desain PCB/Schematics)
+
+Jika Anda ingin membuat PCB atau melihat skematik, tersedia file Eagle (.sch dan .brd):
+
+- `cek pin 37.sch` – Skematik rangkaian Eagle
+- `cek pin 37.brd` – File layout PCB Eagle
+
+### Cara Menggunakan File Eagle
+
+1. Buka file `.sch` atau `.brd` menggunakan **Autodesk Eagle** versi terbaru atau yang kompatibel.
+2. Anda dapat memodifikasi desain sesuai kebutuhan, melakukan routing, atau langsung mencetak layout untuk produksi PCB.
+3. File ini dapat digunakan sebagai referensi wiring atau untuk pembuatan PCB custom.
+
+> Jika Anda belum memiliki Eagle, Anda bisa mengunduhnya secara gratis untuk penggunaan hobi dari [Autodesk Eagle Official](https://www.autodesk.com/products/eagle/free-download).
+
+---
 
 ✨ **Happy coding and hacking!**
 
